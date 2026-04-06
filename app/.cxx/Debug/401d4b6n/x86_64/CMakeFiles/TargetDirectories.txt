@@ -1,0 +1,3 @@
+/home/ipu/code/work/lumusvpn/vk-app/app/.cxx/Debug/401d4b6n/x86_64/CMakeFiles/vkturn_loader.dir
+/home/ipu/code/work/lumusvpn/vk-app/app/.cxx/Debug/401d4b6n/x86_64/CMakeFiles/edit_cache.dir
+/home/ipu/code/work/lumusvpn/vk-app/app/.cxx/Debug/401d4b6n/x86_64/CMakeFiles/rebuild_cache.dir

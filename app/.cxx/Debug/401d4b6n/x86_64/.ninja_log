@@ -1,0 +1,17 @@
+# ninja log v5
+0	245	1775210551890485090	CMakeFiles/vkturn_loader.dir/vkturn_loader.cpp.o	ab0251f9f2cfe6fb
+246	261	1775210551908485543	/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so	945b183b817453e9
+0	3	0	clean	4da3cc096dd0dba0
+0	2	0	clean	4da3cc096dd0dba0
+3	368	1775211772722025019	CMakeFiles/vkturn_loader.dir/vkturn_loader.cpp.o	ab0251f9f2cfe6fb
+368	384	1775211772740025403	/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so	945b183b817453e9
+0	2	0	clean	4da3cc096dd0dba0
+2	309	1775211979060498036	CMakeFiles/vkturn_loader.dir/vkturn_loader.cpp.o	ab0251f9f2cfe6fb
+310	323	1775211979075498563	/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so	945b183b817453e9
+0	2	0	clean	4da3cc096dd0dba0
+1	334	1775213645928966102	CMakeFiles/vkturn_loader.dir/vkturn_loader.cpp.o	ab0251f9f2cfe6fb
+334	353	1775213645948966590	/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so	945b183b817453e9
+0	2	0	clean	4da3cc096dd0dba0
+0	1	0	clean	4da3cc096dd0dba0
+1	249	1775214455482886286	CMakeFiles/vkturn_loader.dir/vkturn_loader.cpp.o	ab0251f9f2cfe6fb
+249	263	1775214455497886638	/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so	945b183b817453e9

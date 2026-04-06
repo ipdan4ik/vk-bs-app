@@ -1,0 +1,13 @@
+plugins {
+    id 'com.android.application' version '9.1.0' apply false
+    id 'org.jetbrains.kotlin.plugin.compose' version '2.2.10' apply false
+    id 'com.google.devtools.ksp' version '2.2.10-2.0.2' apply false
+}
+
+if (JavaVersion.current() != JavaVersion.VERSION_21) {
+    throw new GradleException(
+        "This project must be built with JDK 21. " +
+            "Current JVM: ${System.getProperty('java.version')}. " +
+            "Set JAVA_HOME to a JDK 21 installation or configure Android Studio Gradle JDK = 21."
+    )
+}

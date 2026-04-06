@@ -1,0 +1,1 @@
+/home/ipu/code/work/lumusvpn/vk-app/app/src/main/cpp/CMakeLists.txt

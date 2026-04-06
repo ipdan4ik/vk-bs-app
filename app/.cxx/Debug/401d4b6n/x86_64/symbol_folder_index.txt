@@ -1,0 +1,1 @@
+/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64

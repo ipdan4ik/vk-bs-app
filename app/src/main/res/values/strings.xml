@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lumus VK VPN</string>
+    <string name="notification_channel_name">VK TURN Proxy</string>
+    <string name="notification_title">Lumus VK VPN</string>
+    <string name="notification_text_running">Proxy transport is running</string>
+</resources>
+

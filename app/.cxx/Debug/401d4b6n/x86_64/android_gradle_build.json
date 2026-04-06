@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/ipu/code/work/lumusvpn/vk-app/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ipu/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ipu/code/work/lumusvpn/vk-app/app/.cxx/Debug/401d4b6n/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ipu/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ipu/code/work/lumusvpn/vk-app/app/.cxx/Debug/401d4b6n/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "vkturn_loader::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "vkturn_loader",
+      "output": "/home/ipu/code/work/lumusvpn/vk-app/app/build/intermediates/cxx/Debug/401d4b6n/obj/x86_64/libvkturn_loader.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/ipu/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/ipu/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
